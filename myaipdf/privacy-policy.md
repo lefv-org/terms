@@ -1,3 +1,8 @@
+---
+layout: default
+title: myAIPDF Privacy Policy
+---
+
 # myAIPDF Privacy Policy
 
 **Last Updated:** May 26, 2026

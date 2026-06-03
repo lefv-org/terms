@@ -1,3 +1,8 @@
+---
+layout: default
+title: myAIPDF Terms of Service
+---
+
 # myAIPDF Terms of Service
 
 **Last Updated:** January 26, 2026
