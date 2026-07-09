@@ -5,7 +5,7 @@ title: myAIPDF Privacy Policy
 
 # myAIPDF Privacy Policy
 
-**Last Updated:** May 26, 2026
+**Last Updated:** July 9, 2026
 
 ## Introduction
 
@@ -64,11 +64,14 @@ data that could identify you.
 
 ### Advertising
 
-We use Google AdMob to display advertisements. AdMob may collect and use your
-device's advertising identifier to serve ads. On iOS, this only happens after
+We use Appodeal to display advertisements. Appodeal and its ad network
+partners may collect and use your device's advertising identifier and IP
+address to serve ads. On iOS, the advertising identifier is only used after
 you grant permission through Apple's App Tracking Transparency prompt; if you
-decline, the advertising identifier is not used for tracking. You may opt out of
-personalized advertising in your device settings at any time.
+decline, the advertising identifier is not used for tracking. You may opt out
+of personalized advertising in your device settings at any time. For details
+on how Appodeal processes data, see
+[Appodeal's Privacy Policy](https://www.appodeal.com/home/privacy-policy/).
 
 ### In-App Purchases
 
@@ -95,7 +98,7 @@ The limited information we collect is used solely to:
 Your PDF files and their content — including text that is translated — remain on
 your device at all times. The only data ever transmitted off-device is anonymous
 crash diagnostics (Sentry) and, where you have consented, your advertising
-identifier (Google AdMob). We implement industry-standard security measures to
+identifier and IP address (Appodeal). We implement industry-standard security measures to
 protect that data. However, no method of electronic transmission or storage is
 100% secure.
 
@@ -104,7 +107,7 @@ protect that data. However, no method of electronic transmission or storage is
 myAIPDF integrates with the following third-party services:
 
 - **Sentry** (sentry.io) — For crash reporting and error tracking
-- **Google AdMob** (admob.google.com) — For displaying ads
+- **Appodeal** (appodeal.com) — For displaying ads ([privacy policy](https://www.appodeal.com/home/privacy-policy/))
 - **Google ML Kit** (Android) — Downloads on-device translation model packs only (never document content)
 - **Apple App Store / Google Play Store** — For app distribution and payments
 
