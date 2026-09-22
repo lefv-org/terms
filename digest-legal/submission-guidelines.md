@@ -9,7 +9,7 @@ description: "Suggest an article or a publication on digest.legal."
 ## Suggest a link
 
 1. Select **Suggest a link** in the sidebar.
-2. Enter the full web address of an article or publication, starting with `https://` or `http://`.
+2. Enter the web address of an article or publication. You can include `https://` or `http://`; if you leave out the scheme, the form uses `https://`.
 3. Check whether the form identifies it as an article or a site. Use **It is an article** or **It is a site** to correct the choice.
 4. Sign in to send the suggestion.
 

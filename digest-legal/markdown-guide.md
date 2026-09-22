@@ -19,7 +19,7 @@ Comments support Markdown, a text format that uses punctuation to mark text styl
 | Numbered list | Start each item with a number and a full stop, such as `1. `. |
 | Link | `[link text](https://example.com)` |
 
-Type `@` followed by a reader's username to mention them. A mention can notify that reader and link to the comment.
+Type `@` followed by a reader's username to mention them. Recognized mentions link to that reader's profile. Mention notifications are currently unavailable.
 
 Follow the [Content guidelines](./content-guidelines.html) when you take part in a discussion.
 
