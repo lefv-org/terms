@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Reputation"
-description: "How contributions can earn reputation on digest.legal."
+description: "Reputation scores and contribution rules on digest.legal. Automatic updates are currently unavailable."
 ---
 
 # Reputation
