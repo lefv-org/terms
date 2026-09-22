@@ -25,6 +25,10 @@ is authoritative until this repo is updated to match.
 |---|---|---|---|
 | myAIPDF | [`myaipdf/`](./myaipdf/) | [terms](./myaipdf/terms-of-service.md) | [privacy](./myaipdf/privacy-policy.md) |
 
+## User documentation
+
+- [digest.legal user guides](./digest-legal/) — canonical reading and contribution guides. Its legal policies remain in the app.
+
 ## Canonical URLs
 
 Mobile app stores require public URLs for terms and privacy policy. Use GitHub's
